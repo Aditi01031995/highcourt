@@ -1,6 +1,6 @@
 {
 	"Homepage": "https://Aditi01031995.github.io/highcourt",
-	"name": "highCourt",
+	"name": "highcourt",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
@@ -21,10 +21,7 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
+    "extends":  "react-app/jest"
   },
   "browserslist": {
     "production": [
